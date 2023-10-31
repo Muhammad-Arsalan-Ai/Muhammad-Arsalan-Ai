@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **marsalan8@outlook.com**
 
-- ⚡ Fun fact **I've created a chatbot using Generative AI that suggests personalized courses for your learning journey. 🤖📚💡**
+- ⚡ Fun fact **I've developed a Chatbot Powered by Generative AI that suggests tailored courses and learning materials based on your skill assessment. 🤖📚💡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
