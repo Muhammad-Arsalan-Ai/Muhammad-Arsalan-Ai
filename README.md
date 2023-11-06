@@ -6,11 +6,11 @@
 <!-- <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Animated GIF" width="450" align='right'> -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400" align='right'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadarsalan-deg-025&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadarsalan-deg-025" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Arsalan-Ai&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Arsalan-Ai" /> </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadarsalan-deg-025&theme=algolia&row=2&column=3&margin-w=45&margin-h=25" alt="muhammadarsalan-deg-025" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Arsalan-Ai&theme=algolia&row=2&column=3&margin-w=45&margin-h=25" alt="Muhammad-Arsalan-Ai" />
   </a>
 </p>
 
@@ -51,8 +51,8 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadarsalan-deg-025&show_icons=true&locale=en&layout=compact&theme=algolia" alt="muhammadarsalan-deg-025" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Arsalan-Ai&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Muhammad-Arsalan-Ai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadarsalan-deg-025&show_icons=true&locale=en&theme=algolia" alt="muhammadarsalan-deg-025" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Arsalan-Ai&show_icons=true&locale=en&theme=algolia" alt="Muhammad-Arsalan-Ai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadarsalan-deg-025&theme=algolia" alt="muhammadarsalan-deg-025" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Arsalan-Ai&theme=algolia" alt="Muhammad-Arsalan-Ai" /></p>
